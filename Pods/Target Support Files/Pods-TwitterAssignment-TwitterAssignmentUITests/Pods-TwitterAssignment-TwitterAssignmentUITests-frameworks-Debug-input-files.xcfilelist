@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-TwitterAssignment-TwitterAssignmentUITests/Pods-TwitterAssignment-TwitterAssignmentUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${PODS_ROOT}/TwitterCore/iOS/TwitterCore.framework
+${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework
